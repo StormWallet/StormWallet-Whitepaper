@@ -10,3 +10,4 @@
 * [✂ SETTINGS FOR STORM WALLET](settings-for-storm-wallet.md)
 * [💥 CONCLUSION THOUGHTS](conclusion-thoughts.md)
 * [👨🏫 OUR TEAM](our-team.md)
+* [TOKENOMIC](tokenomic.md)
