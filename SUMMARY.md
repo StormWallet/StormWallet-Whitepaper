@@ -7,7 +7,7 @@
 * [⛽ SOLUTION TO THE PROBLEM-STORM WALLET](solution-to-the-problem-storm-wallet.md)
 * [🙋 FEATURES](features.md)
 * [🚙 UTILITIES](utilities.md)
+* [💰 TOKENOMIC](tokenomic.md)
 * [✂ SETTINGS FOR STORM WALLET](settings-for-storm-wallet.md)
 * [💥 CONCLUSION THOUGHTS](conclusion-thoughts.md)
 * [👨🏫 OUR TEAM](our-team.md)
-* [TOKENOMIC](tokenomic.md)

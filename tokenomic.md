@@ -1,4 +1,4 @@
-# TOKENOMIC
+# 💰 TOKENOMIC
 
 * Presale 20%
 * Liquidity 9.996% 180 days Lock
